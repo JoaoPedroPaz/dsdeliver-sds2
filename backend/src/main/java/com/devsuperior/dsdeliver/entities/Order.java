@@ -32,9 +32,8 @@ public class Order implements Serializable {
 	@ManyToMany
 	@JoinTable(name = "tb_order_product", 
 			joinColumns = @JoinColumn(name = "order_id"),
-			inverseJoinColumns = @JoinColumn(name = "product_id")
-	)
-	private Set<Product> product = new HashSet<>();
+			inverseJoinColumns = @JoinColumn(name = "product_id"))
+	private Set<Product> products = new HashSet<>();
 	
 	public Order() {
 		
@@ -99,7 +98,7 @@ public class Order implements Serializable {
 	}
 
 	public Set<Product> getProduct() {
-		return product;
+		return products;
 	}
 
 	@Override
