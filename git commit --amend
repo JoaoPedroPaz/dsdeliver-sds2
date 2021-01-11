@@ -1,0 +1,53 @@
+[33mcommit 22afc65872d88fafab5706ddfc03476c42237434[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: unknown <jp.pfc@hotmail.com>
+Date:   Sun Jan 10 23:39:46 2021 -0300
+
+    Creat front-web initial files
+
+[33mcommit 0ca437f6d5ac4be7d6f7903ee5fc34423907069e[m
+Author: JoaoPedroPaz <jp.pfc@hotmail.com>
+Date:   Sun Jan 10 17:40:55 2021 -0300
+
+    Ready to prod
+
+[33mcommit e52640fe5c6ae533d11e9c7bf99e0ce0b2075dd1[m
+Author: JoaoPedroPaz <jp.pfc@hotmail.com>
+Date:   Sun Jan 10 16:57:54 2021 -0300
+
+    PUT /orders/{id}/delivered
+
+[33mcommit 7aa2f82cc9b387ec2c444da23d8f7ae9cfbf4199[m
+Author: JoaoPedroPaz <jp.pfc@hotmail.com>
+Date:   Sun Jan 10 16:45:10 2021 -0300
+
+    POST /orders
+
+[33mcommit 05fc8606cfd15dd6945533dd3fe8e63a7d8005f6[m
+Author: JoaoPedroPaz <jp.pfc@hotmail.com>
+Date:   Sun Jan 10 16:06:43 2021 -0300
+
+    GET /orders
+
+[33mcommit 518909bebedade6e675a43bb0d6fa65920573821[m
+Author: JoaoPedroPaz <jp.pfc@hotmail.com>
+Date:   Sun Jan 10 14:23:14 2021 -0300
+
+    GET /products
+
+[33mcommit 6744b4058a035cd75077d62f6366e40b1c5bd303[m
+Author: JoaoPedroPaz <jp.pfc@hotmail.com>
+Date:   Sun Jan 10 12:09:05 2021 -0300
+
+    Domain model
+
+[33mcommit 931767d490f5be583a0b03b9f310be1e0c6de9a2[m
+Author: JoaoPedroPaz <jp.pfc@hotmail.com>
+Date:   Sun Jan 10 10:54:28 2021 -0300
+
+    Initial setup
+
+[33mcommit b27a700112308fc1cfe66a6fb6a9db1d5398cfce[m
+Author: JoaoPedroPaz <jp.pfc@hotmail.com>
+Date:   Sat Jan 9 21:15:57 2021 -0300
+
+    Project created
